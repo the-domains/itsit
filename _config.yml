@@ -1,0 +1,28 @@
+name: itsit
+favicon: null
+layout_spectrum: 0.14650856843218207
+typography_spectrum: 0.10469662747345865
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.05130884563550353
+  lightness: 0.4349843277595937
+  saturation: 0.4458718129899353
+  rhythmicContrast: 0.35426028072834015
+purpose: []
