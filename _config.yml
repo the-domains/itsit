@@ -1,19 +1,4 @@
-name: itsit
-favicon: null
-layout_spectrum: 0.14650856843218207
 typography_spectrum: 0.10469662747345865
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -25,4 +10,23 @@ color:
   lightness: 0.4349843277595937
   saturation: 0.4458718129899353
   rhythmicContrast: 0.35426028072834015
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.14650856843218207
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: itsit
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: ARC Design
+    url: 'http://arc-design.com'
+    type: external
+favicon: null
 purpose: []
